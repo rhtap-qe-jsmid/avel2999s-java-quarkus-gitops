@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: avel2999s-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/avel2999s-java-quarkus-gitops
